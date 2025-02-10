@@ -23,11 +23,11 @@ public class Paciente {
 
     }
 
-    public void classificar(){
+    public void classificarImc(){
 
     }
 
     public void exibirDados(){
-        nome.
+
     }
 }
